@@ -54,5 +54,5 @@ Complete!
 + chmod -R 644 /var/www/html/index.html
 + systemctl enable httpd
 Created symlink from /etc/systemd/system/multi-user.target.wants/httpd.service to /usr/lib/systemd/system/httpd.service.
-Finished: SUCCESS
+Finished: SUCCESSS
 
